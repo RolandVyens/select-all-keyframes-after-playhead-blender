@@ -1,4 +1,8 @@
 # select-all-keyframes-after-playhead-blender
+全选播放头后的骨骼与物体的关键帧（全局选择）
+
+启用后会在时间线右上角创建一个按钮
+
 Select all keyframes on every amature and objects in blender.
 
 This creates a button at the top-right corner of the timeline/dope sheet panel.
